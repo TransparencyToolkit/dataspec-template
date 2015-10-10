@@ -1,0 +1,9 @@
+{
+  "Synonym List": "",
+  "Ignore List": "",
+  "ID Field": "page_url",
+  "Secondary ID": ["company", "title", "start_date"],
+  "Deduplicate Ignore": ["timestamp", "dataset_name"],
+  "Deduplicate Prioritize": "timestamp",
+  "Get ID After": "scraped-website.com/path"
+}

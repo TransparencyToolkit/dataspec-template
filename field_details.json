@@ -1,0 +1,42 @@
+[
+  {
+    "Field Name": "name",
+    "Human Readable Name": "Name",
+    "Type": "String",
+    "Location": "0",
+    "Display Type": "Title",
+    "Icon": ""
+  },{
+    "Field Name": "company",
+    "Human Readable Name": "Company",
+    "Type": "String",
+    "Display Type": "Category",
+    "Mapping": "english",
+    "Location": "1",
+    "Icon": "building"
+  },{
+    "Field Name": "title",
+    "Human Readable Name": "Job Title",
+    "Type": "String",
+    "Display Type": "Short Text",
+    "Mapping": "english",
+    "Location": "2",
+    "Icon": ""
+  },{
+    "Field Name": "start_date",
+    "Human Readable Name": "Start Date",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Location": "3",
+    "Icon": ""
+  },{
+    "Field Name": "end_date",
+    "Human Readable Name": "End Date",
+    "Type": "Date",
+    "Display Type": "Date",
+    "Mapping": "not_analyzed",
+    "Location": "4",
+    "Icon": ""
+  }
+]

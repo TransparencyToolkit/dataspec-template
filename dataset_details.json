@@ -1,0 +1,9 @@
+{
+  "Path Type": "Directory",
+  "Path": "/path/to/saved/data/",
+  "Index Name": "example_scraped_data",
+  "Dataset Name": "YourDataset",
+  "Ignore Dir Import Ext": "_terms.json",
+  "Sort Field": "",
+  "Show Sort Field": "start_date"
+}

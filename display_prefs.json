@@ -1,0 +1,44 @@
+{
+  "Facet": [
+    "company",
+    "location"
+	],
+  "Searchable": [
+    "name",
+    "company",
+    "title"
+	],
+  "In Search Results": [
+    "name",
+    "company",
+    "title",
+    "start_date",
+    "end_date",
+    "location"
+	],
+  "In Search Results by Default": [
+    "name",
+    "company",
+    "title",
+    "start_date",
+    "end_date"
+  ],
+  "On Doc Page": [
+    "name",
+    "company",
+    "title",
+    "start_date",
+    "end_date",
+    "timestamp"
+  ],
+  "Item Field": [
+    "company",
+    "title",
+    "start_date",
+    "end_date",
+    "description"
+  ],
+  "Truncate Text": [
+  	"doc_text"
+  ]
+}
